@@ -2,7 +2,7 @@
 
 - ⚡ My name is Jose, I'm a fan of Vim, C++ and Arch Linux.
 - 🔭 I’m currently working on [Productivity Directory](https://productivity.directory)
-- 👨🏻‍💻 I'm writing on [Productivity Blog](https://blog.productivity.directory) & [Productivity Hacks](https://productivity.directory/notes/hacks)
+- 👨🏻‍💻 I'm writing on [Productivity Blog](https://blog.productivity.directory), [Productivityist](https://productivity.ist) & [Productivity Hacks](https://productivity.directory/notes/hacks)
 - 🗿 Find Productivity Directory on [Linkedin](https://linkedin.com/company/productivitydirectory), [Instagram](https://instagram.com/productivitydirectory), [YouTube](https://youtube.com/@productivitydirectory), [Crunchbase](https://www.crunchbase.com/organization/productivity-directory), [Product Hunt](https://producthunt.com/products/productivity-directory-2) and [Medium](https://medium.com/productivitydirectory)
 - 📫 How to reach me: [Twitter](https://x.com/xtan8086), [ProductHunt](https://producthunt.com/@stan8086), [Altern](https://altern.ai/@stan)
 
